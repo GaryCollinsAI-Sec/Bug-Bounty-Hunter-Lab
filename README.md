@@ -1,1 +1,1 @@
-# Bug-Bounty-Hunter-Lab
+# Bug Bounty Hunter Lab
