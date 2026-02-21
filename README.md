@@ -10,10 +10,8 @@ Build a locally isolated network environment using pfSense as a virtual gateway 
 <h2>Skills Learned</h2>
 <ul>
   <li>Network architecture and segmentation.</li>
-  <li>Firewall rule configuration and traffic logging.</li>
   <li>Web vulnerability exploitation (SQLi, XSS, etc.).</li>
   <li>DHCP server administration and static IP mapping.</li>
-  <li>Analyzing attack patterns through real-time firewall logs.</li>
   <li>Hardening network boundaries against unauthorized lateral movement.</li>
   <li>Secure lab isolation and air-gapping.</li>
 </ul>
