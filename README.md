@@ -53,7 +53,7 @@ Build a locally isolated network environment using pfSense as a virtual gateway 
 <h3>3. Target &amp; Attacker Deployment</h3>
 <ul>
 <li>Start DVWA and verify it receives a LAN IP from the pfSense DHCP pool.</li>
-<li>Boot Kali Linux and access the pfSense WebGUI at https://10.0.0.1.</li>
+<li>Boot Kali Linux and access the pfSense WebGUI.</li>
 <li>Configure Static DHCP Mappings for the DVWA machine to maintain a consistent attack target.</li>
 </ul>
 
