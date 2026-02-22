@@ -46,7 +46,7 @@ Build a locally isolated network environment using pfSense as a virtual gateway 
 <h3>2. pfSense Interface Setup</h3>
 <ul>
 <li>Boot pfSense and assign interfaces via the console (e.g., vtnet0 for WAN, vtnet1 for LAN).</li>
-<li>Configure the LAN IP Address (e.g., 10.0.0.1/24).</li>
+<li>Configure the LAN IP Address.</li>
 <li>Enable the DHCP Server on the LAN to automate IP assignment for the lab machines.</li>
 </ul>
 
