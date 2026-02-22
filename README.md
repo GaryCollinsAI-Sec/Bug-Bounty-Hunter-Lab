@@ -1,4 +1,4 @@
-# Bug Bounty Lab
+#Bug Bounty Lab
 
 <h2>Objective</h2>
 <p>
