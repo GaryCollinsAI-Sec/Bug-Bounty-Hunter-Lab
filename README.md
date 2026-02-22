@@ -1,4 +1,4 @@
-#Bug Bounty Lab
+#Offensive Web Security Lab
 
 <h2>Objective</h2>
 <p>
